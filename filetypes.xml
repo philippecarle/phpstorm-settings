@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="BarSpecial" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
