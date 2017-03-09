@@ -9,6 +9,7 @@
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
