@@ -5,6 +5,8 @@
       <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
       <mapping pattern="BarSpecial" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="Capfile" type="PLAIN_TEXT" />
       <mapping pattern="repositories" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="QuotationLineReducer" type="PLAIN_TEXT" />
@@ -13,6 +15,8 @@
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="cxml" type="XML" />
     </extensionMap>
   </component>
