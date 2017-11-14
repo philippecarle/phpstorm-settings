@@ -1,18 +1,26 @@
 <application>
-  <component name="DatabaseSettings">
+  <component name="DatabaseSettings" version="2">
     <option name="page-size" value="5000" />
     <csv-formats>
-      <csv-format name="Tab-separated (TSV)">
+      <csv-format name="Tab-separated (TSV)" id="378c8539-a207-4900-bbeb-e66063b768a4">
         <data>
-          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="&#9;" recordSeparator="&#10;">
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
             <quotation>
               <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
               <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
             </quotation>
           </record-format>
         </data>
+        <header>
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="&#9;" recordSeparator="&#10;">
+            <quotation>
+              <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+              <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+            </quotation>
+          </record-format>
+        </header>
       </csv-format>
-      <csv-format name="Comma-separated (CSV)">
+      <csv-format name="Comma-separated (CSV)" id="92c045e9-8d78-417d-a5c2-d03fc47b24ff">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="," recordSeparator="&#10;">
             <quotation>
