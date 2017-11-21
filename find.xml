@@ -25,6 +25,10 @@
       <mask>*.xml</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>.</mask>
+      <mask>.p</mask>
+      <mask>.pdf</mask>
+      <mask>*.pdf</mask>
     </recentFileMasks>
   </component>
 </application>
