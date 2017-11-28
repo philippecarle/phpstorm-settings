@@ -1,6 +1,6 @@
 <application>
   <component name="DatabaseSettings" version="2">
-    <option name="page-size" value="5000" />
+    <option name="page-size" value="50000" />
     <csv-formats>
       <csv-format name="Tab-separated (TSV)" id="378c8539-a207-4900-bbeb-e66063b768a4">
         <data>
