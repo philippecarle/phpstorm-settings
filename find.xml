@@ -1,39 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
-    <recentFileMasks>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.fea</mask>
-      <mask>*.feat</mask>
-      <mask>*.feature</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
-      <mask>*.yml</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>.</mask>
-      <mask>.p</mask>
-      <mask>.pdf</mask>
-      <mask>*.pdf</mask>
-      <mask>*</mask>
-      <mask>*.t</mask>
-      <mask>*.tw</mask>
-      <mask>*.twi</mask>
-      <mask>*.twig</mask>
-      <mask>*.fr.po</mask>
-      <mask>*.fr.</mask>
-      <mask>*.fr</mask>
-      <mask>*.f</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
-      <mask>*.json</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.php</mask>
-    </recentFileMasks>
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
   </component>
 </application>
